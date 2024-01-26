@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272.15 822.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e52421;
+        stroke-miterlimit: 10;
+        stroke-width: .03px;
+      }
+
+      .cls-2 {
+        fill: #1d1d1b;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 112.66px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-1" d="M.01,822.06h136.06s111.46-75.31,111.46-75.31c-104.22-310.89-104.22-319.39-104.22-319.39h70.87v8.5h-70.87L24.61,74.32,136.08.01H.01v427.35h70.87v8.5H.01v386.2"/>
+    <polyline class="cls-1" points="136.08 .01 272.14 .01 272.14 822.06 136.08 822.06"/>
+  </g>
+  <text class="cls-2" transform="translate(235.18 216.07) rotate(-90) scale(1.03 1)"><tspan x="0" y="0">HT</tspan></text>
+</svg>
